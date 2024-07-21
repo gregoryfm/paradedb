@@ -108,3 +108,11 @@ Found 4 outliers among 60 measurements (6.67%)
   2 (3.33%) high mild
   2 (3.33%) high severe
 ```
+
+## pg_lakehouse
+
+For our analytics benchmark, ParadeDB follows the [ClickBench](https://github.com/ClickHouse/ClickBench) framework. You can see our 
+
+
+
+

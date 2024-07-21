@@ -5,4 +5,6 @@
 
 ## Important Notice
 
-`pg_analytics` is undergoing a refactor to bring it to production readiness. Therefore, we've temporarily moved it to a [separate repository](https://github.com/paradedb/pg_analytics).
+`pg_analytics` has been superseded by `pg_lakehouse`. You can read the motivation behind this decision [here](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse#motivation). The original project was moved to a [separate repository](https://github.com/paradedb/pg_analytics).
+
+Once write support has been added to `pg_lakehouse`, both projects will be officially combined.
